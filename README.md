@@ -14,10 +14,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
-</p>
-
 ## 👋 Hey There
 
 I'm Aarav, a Computer Science student at Saint Mary's University and an aspiring Enterprise Technology professional focused on automation, ERP systems, analytics, and business transformation.
