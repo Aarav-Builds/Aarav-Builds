@@ -11,7 +11,6 @@
 <div>
   <a href="https://www.linkedin.com/in/aarav-sen-mehta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Aarav-Builds" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:aaravsen2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ###
@@ -21,19 +20,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarav-Builds&theme=github" />
 </picture>
 
-### 👋 Hey there
+I'm Aarav a **Computer Science** student (with a **Business** minor) at Saint Mary's University in Halifax, Nova Scotia 🇨🇦. I spend most of my time where software, data, and enterprise systems collide.
 
-I'm Aarav — a **Computer Science** student (with a **Business** minor) at Saint Mary's University in Halifax, Nova Scotia 🇨🇦. I spend most of my time where software, data, and enterprise systems collide.
-
-By day I'm a **Data Analyst Co-op at Nova Scotia Power**, helping rebuild a province-scale **Oracle Fusion ERP**. On the side I build Python automation and analytics pipelines as a **Cloud ERP Automation Engineer at Katbotz**. And in between, I teach 100+ students a year how to wrangle Python, Java, and SQL.
+By day I'm a **Data Analyst Co-op at Nova Scotia Power**, helping implement a province-scale **Oracle Fusion ERP**. On the side I build Python automation and analytics pipelines as a **Cloud ERP Automation Engineer at Katbotz**. And in between, I teach 100+ students a year how to wrangle Python, Java, and SQL.
 
 The thread through all of it: I like taking messy, manual, business-critical processes and turning them into clean automation and dashboards people actually trust.
 
 ### 💫 About me
 
-🎓 Graduating 2027 · GPA 4.18/4.30 · Dean's List ('24–'26) \
+🎓 Graduating 2027 · GPA 4.17/4.30 · Dean's List ('24–'26) \
 🏆 Won $2,500 and placed 3rd of 20+ teams building a healthcare app \
-⚙️ Automating away repetitive work since 2024 — ~8 hrs/week saved per teammate \
+⚙️ Automating away repetitive work since 2024 \
 🎮 I build games for fun (Unity 2D, AI-driven NPCs) \
 🌱 Currently going deeper on **data engineering & ML**
 
