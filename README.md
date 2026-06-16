@@ -101,15 +101,15 @@ Always happy to talk ERP, automation, analytics, or a good side project.
 
 **🩺 CARE ETA — Healthcare App** · *Technical Lead* \
 Led the technical design in Figma and defined the core system logic. Won **$2,500** at the Leader Vision Atlantic Wicked Problems Lab and placed **3rd of 20+ teams** at the Innovation Cup. \
-🔗 [Project recognition][LINK]
+🔗 Project Recognition: [https://news.smu.ca/news/2024/1/24/wicked-problem-lab-awards]
 
 **🎮 Dungeon Survivor — Unity 2D Action Game** · *Game Developer* \
 Built a 2D action game with AI-driven NPCs (NavMesh) across 10 levels. Ran usability tests with 20 players and cut reported bugs by **25%**. \
-🔗 [Repo][LINK]
+🔗 Project Section LinkedIn: [https://www.linkedin.com/in/aarav-sen-mehta/]
 
 **🌲 French Village Conservation Woodland — Client Website** · *Web Developer* \
 Built an accessibility-first website for visually impaired users with a 4-person team, improving accessibility by **30%** through testing with 15 users. \
-🔗 [Live site][LINK]
+🔗 Live site: [https://naturalburial-aarav.vercel.app/]
 
 ## 📜 Certifications
 
