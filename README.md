@@ -1,160 +1,132 @@
+<!--
+  HOW TO USE THIS FILE
+  1. Create a public repo named EXACTLY your GitHub username (e.g. github.com/aaravmehta/aaravmehta)
+  2. Add this file as README.md in that repo — it renders on your profile automatically.
+  3. Find/replace Aarav-Builds below with your real handle (needed for the stats cards).
+  4. Fill in any [LINK] placeholders with real project URLs when you have them.
+-->
+
 # ⚡ Aarav Sen Mehta
 
 <div>
-  <a href="https://www.linkedin.com/in/aarav-sen-mehta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:aaravsen2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Aarav-Builds">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/aarav-sen-mehta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Aarav-Builds" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:aaravsen2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-<br>
+###
 
-## 👋 Hey There
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarav-Builds&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarav-Builds&theme=github" />
+  <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarav-Builds&theme=github_dark" />
+</picture>
 
-I'm Aarav, a Computer Science student at Saint Mary's University and an aspiring Enterprise Technology professional focused on automation, ERP systems, analytics, and business transformation.
+### 👋 Hey there
 
-Currently, I work across large-scale ERP modernization initiatives, helping organizations improve processes through enterprise systems, data analytics, and automation.
+I'm Aarav — a **Computer Science** student (with a **Business** minor) at Saint Mary's University in Halifax, Nova Scotia 🇨🇦. I spend most of my time where software, data, and enterprise systems collide.
 
-## 💫 About Me
+By day I'm a **Data Analyst Co-op at Nova Scotia Power**, helping rebuild a province-scale **Oracle Fusion ERP**. On the side I build Python automation and analytics pipelines as a **Cloud ERP Automation Engineer at Katbotz**. And in between, I teach 100+ students a year how to wrangle Python, Java, and SQL.
 
-🎓 Computer Science @ Saint Mary's University
+The thread through all of it: I like taking messy, manual, business-critical processes and turning them into clean automation and dashboards people actually trust.
 
-📊 GPA: 4.18 / 4.30
+### 💫 About me
 
-🏆 Dean's List (2024 • 2025 • 2026)
+🎓 Graduating 2027 · GPA 4.18/4.30 · Dean's List ('24–'26) \
+🏆 Won $2,500 and placed 3rd of 20+ teams building a healthcare app \
+⚙️ Automating away repetitive work since 2024 — ~8 hrs/week saved per teammate \
+🎮 I build games for fun (Unity 2D, AI-driven NPCs) \
+🌱 Currently going deeper on **data engineering & ML**
 
-📈 Data Analyst @ Nova Scotia Power
+Always happy to talk ERP, automation, analytics, or a good side project.
 
-☁️ Cloud ERP Automation Engineer @ KATBOTZ
+## 🤖 My tech stack
 
-👨‍🏫 Teaching Assistant for Computer Science & Mathematics
-
-🚀 Passionate about ERP, Automation, Analytics & AI
-
----
-
-## 🏢 Enterprise Systems
+### 💻 Languages
 
 <div>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
-  <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge" alt="SAP BTP" />
-  <img src="https://img.shields.io/badge/Oracle%20Fusion-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Fusion" />
-  <img src="https://img.shields.io/badge/IBM%20Maximo-052FAD?style=for-the-badge" alt="IBM Maximo" />
-  <img src="https://img.shields.io/badge/Zoho-CC0000?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
----
-
-## 📊 Analytics & Business Intelligence
+### 📊 Data & analytics
 
 <div>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-0FAAFF?style=for-the-badge" alt="SAP Analytics Cloud" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Analytics Cloud" />
+  <img src="https://img.shields.io/badge/Zoho%20Analytics-C8202F?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Analytics" />
 </div>
 
----
-
-## 🤖 Automation & Development
+### 🏢 ERP & enterprise systems
 
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" alt="C#" />
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP S/4HANA" />
+  <img src="https://img.shields.io/badge/Oracle%20Fusion%20ERP-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Fusion ERP" />
+  <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP" />
+  <img src="https://img.shields.io/badge/IBM%20Maximo-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Maximo" />
+  <img src="https://img.shields.io/badge/Zoho%20ERP-C8202F?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho ERP" />
 </div>
 
----
-
-## ☁️ Cloud & Tools
+### ☁️ Cloud, tools & more
 
 <div>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </div>
 
----
-
-## 🎮 Additional Experience
+## 📈 My GitHub stats
 
 <div>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white" alt="PowerApps" />
-  <img src="https://img.shields.io/badge/Bloomberg-000000?style=for-the-badge" alt="Bloomberg" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aarav-Builds&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarav-Builds&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
----
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarav-Builds&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
 
-## 🚀 Featured Projects
+## 🚀 Featured projects
 
-### 🏥 CARE ETA Healthcare Platform
+**🩺 CARE ETA — Healthcare App** · *Technical Lead* \
+Led the technical design in Figma and defined the core system logic. Won **$2,500** at the Leader Vision Atlantic Wicked Problems Lab and placed **3rd of 20+ teams** at the Innovation Cup. \
+🔗 [Project recognition][LINK]
 
-- Technical Lead
-- Secured $2,500 Startup Funding
-- 3rd Place Innovation Cup
-- Designed healthcare workflows and prototypes
-- Conducted user and market validation research
+**🎮 Dungeon Survivor — Unity 2D Action Game** · *Game Developer* \
+Built a 2D action game with AI-driven NPCs (NavMesh) across 10 levels. Ran usability tests with 20 players and cut reported bugs by **25%**. \
+🔗 [Repo][LINK]
 
-### 🎮 Dungeon Survivor
+**🌲 French Village Conservation Woodland — Client Website** · *Web Developer* \
+Built an accessibility-first website for visually impaired users with a 4-person team, improving accessibility by **30%** through testing with 15 users. \
+🔗 [Live site][LINK]
 
-- Unity-based 2D Action Game
-- AI-driven NPC Behaviour
-- 10 Custom Levels
-- User-tested and optimized gameplay experience
+## 📜 Certifications
 
-### 🌲 French Village Conservation Woodland
+<div>
+  <img src="https://img.shields.io/badge/Oracle%20Fusion%20Cloud%20ERP%20Process%20Essentials-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Fusion Cloud ERP" />
+  <img src="https://img.shields.io/badge/Develop%20%26%20Automate%20with%20SAP%20Build-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Build" />
+  <img src="https://img.shields.io/badge/Bloomberg%20Market%20Concepts-000000?style=for-the-badge&logo=bloomberg&logoColor=white" alt="Bloomberg Market Concepts" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Basics%20—%20ACENET-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML Basics ACENET" />
+</div>
 
-- Accessibility-focused website
-- Designed for visually impaired users
-- Built collaboratively using GitHub
-- Deployed production-ready solution
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aarav-Builds&theme=github-compact&hide_border=true&area=true" />
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Aarav-Builds&theme=github-compact&hide_border=true&area=true" width="100%" />
+</picture>
 
-## 🏆 Highlights
-
-🏅 Dean's List (2024, 2025, 2026)
-
-🎓 Academic Entrance Scholarship Recipient
-
-💰 $2,500 Startup Funding Recipient
-
-🥉 Innovation Cup – 3rd Place
-
-👨‍🏫 Teaching Assistant for Computer Science & Mathematics
-
-📜 Oracle Fusion ERP Certified
-
-📜 SAP Build Certified
-
-📜 Bloomberg Market Concepts Certified
-
----
-
-## 📈 Currently Exploring
-
-```text
-Enterprise Architecture
-Business Transformation
-ERP Implementations
-SAP Business AI
-Cloud Integrations
-Data Engineering
-Process Automation
-Applied Artificial Intelligence
-```
-
----
-
-> Building technology that connects business processes, enterprise systems, and data-driven decision making.
+<div align="center">
+  <i>Turning messy enterprise data into automation people trust — one pipeline at a time.</i>
+</div>
