@@ -89,11 +89,6 @@ Always happy to talk ERP, automation, analytics, or a good side project.
 ## 📈 My GitHub stats
 
 <div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aarav-Builds&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarav-Builds&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarav-Builds&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
