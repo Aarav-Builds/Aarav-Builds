@@ -86,12 +86,6 @@ Always happy to talk ERP, automation, analytics, or a good side project.
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </div>
 
-## 📈 My GitHub stats
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarav-Builds&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🚀 Featured projects
 
 **🩺 CARE ETA — Healthcare App** · *Technical Lead* \
